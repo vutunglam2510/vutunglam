@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1592240823 source:c:\users\admin\desktop\snake-master\demo.cpp
+	<iostream>
+	<winbgim.h>
+	<string.h>
+	<stdio.h>
+	<time.h>
+
